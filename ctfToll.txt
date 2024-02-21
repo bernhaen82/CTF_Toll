@@ -1,1 +1,3 @@
 CTF Toll how to get the flag
+The code for the flag reveals that no matter what you put in it will give you an error 
+So you have to put //0 which is a comment bassicly and does nothing 
